@@ -1,4 +1,6 @@
 gettingandcleaningdataproject
 =============================
 
-obtaining, cleaning, tiding and returning a dataset for a coursera course
+Data for this is to be uploaded.  As a result, code to pull and unpackage have been commented out.
+
+Data is validated and tested.
